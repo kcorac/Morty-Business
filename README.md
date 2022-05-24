@@ -15,3 +15,6 @@ If the player achieves to process a certain amount of coffins they move to the n
 
 ### Losing Condition
 The amount of coffins surpasses a maximum and over flows the funerary available space.
+
+## Sketches
+![Rough sktches for the gameplay](/Morty%20Business%20-%20Sketches.png)
