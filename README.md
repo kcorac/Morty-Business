@@ -5,16 +5,16 @@
 Death is only the begining
 
 ## Short Description
-Cemetery and mortuary themed strategy and time management (Dash-Series-inspired) game.
+Death is only the begining of work for Morty the mortician.
 
 ## Mechanics Overview
-Morty Business is a point-and-click strategy and time management game. The idea is inspired in the fact that the mortuary’s job and labor begins with someone else’s death. The player controls the mortuary agent to manage the coffins that must be buried or cremated according to their shapes and colors.
+Morty is low-skilled amd slippery mortician who has to prove their value as a mortician by trying to take (actually by pushing as he can) the coffins to right places. 
 
 ### Wining Condition(s)
-If the player achieves to process a certain amount of coffins they move to the next difficulty level.
+If Morty (the player) manages to put the coffins in their corresponding place.
 
 ### Losing Condition
-The amount of coffins surpasses a maximum and over flows the funerary available space.
+Time runs out.
 
 ## Sketches
 ![Rough sktches for the gameplay](/Morty%20Business%20-%20Sketches.png)
