@@ -140,7 +140,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Basic Sprites_0
+      name: Coffin-for-cremation
       rect:
         serializedVersion: 2
         x: 31
@@ -148,7 +148,7 @@ TextureImporter:
         width: 42
         height: 79
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -161,7 +161,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Sprites_1
+      name: Coffin-for-burial
       rect:
         serializedVersion: 2
         x: 92
@@ -169,7 +169,7 @@ TextureImporter:
         width: 42
         height: 79
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -182,15 +182,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Sprites_2
+      name: Crematorium-00
       rect:
         serializedVersion: 2
         x: 197
-        y: 633
+        y: 634
         width: 301
         height: 250
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -203,7 +203,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Sprites_3
+      name: Crematorium-01
       rect:
         serializedVersion: 2
         x: 558
@@ -211,7 +211,7 @@ TextureImporter:
         width: 308
         height: 250
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -224,7 +224,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Sprites_4
+      name: Crematorium-04
       rect:
         serializedVersion: 2
         x: 949
@@ -232,7 +232,7 @@ TextureImporter:
         width: 307
         height: 250
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -245,15 +245,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Sprites_5
+      name: Grave-04
       rect:
         serializedVersion: 2
         x: 1454
-        y: 731
+        y: 732
         width: 62
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -266,7 +266,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Sprites_6
+      name: Morty-Basic
       rect:
         serializedVersion: 2
         x: 27
@@ -274,7 +274,7 @@ TextureImporter:
         width: 48
         height: 133
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -287,7 +287,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Sprites_7
+      name: Morty-for-Burial
       rect:
         serializedVersion: 2
         x: 88
@@ -295,7 +295,7 @@ TextureImporter:
         width: 49
         height: 133
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -308,15 +308,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Sprites_8
+      name: Grave-01
       rect:
         serializedVersion: 2
-        x: 1457
-        y: 566
+        x: 1456
+        y: 567
         width: 100
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -329,28 +329,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Sprites_9
-      rect:
-        serializedVersion: 2
-        x: 1514
-        y: 572
-        width: 43
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 17b7db3086dbd4a5eb44b2347d828cac
-      internalID: -30819596
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Sprites_10
+      name: Morty-for-Cremation
       rect:
         serializedVersion: 2
         x: 27
@@ -358,7 +337,7 @@ TextureImporter:
         width: 48
         height: 133
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -371,7 +350,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Sprites_11
+      name: Crematorium-Cremation
       rect:
         serializedVersion: 2
         x: 197
@@ -379,7 +358,7 @@ TextureImporter:
         width: 301
         height: 250
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -392,7 +371,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Sprites_12
+      name: Crematorium-02
       rect:
         serializedVersion: 2
         x: 543
@@ -400,7 +379,7 @@ TextureImporter:
         width: 324
         height: 253
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -413,7 +392,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Sprites_13
+      name: Grave-02
       rect:
         serializedVersion: 2
         x: 1457
@@ -421,7 +400,7 @@ TextureImporter:
         width: 90
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -434,28 +413,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Sprites_14
-      rect:
-        serializedVersion: 2
-        x: 1514
-        y: 423
-        width: 33
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 704cd84853f104def83153765d89c9c2
-      internalID: -1708929392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Sprites_15
+      name: Crematorium-03
       rect:
         serializedVersion: 2
         x: 533
@@ -463,7 +421,7 @@ TextureImporter:
         width: 357
         height: 270
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -476,15 +434,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Sprites_16
+      name: Grave-03
       rect:
         serializedVersion: 2
         x: 1457
-        y: 243
+        y: 244
         width: 77
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -497,28 +455,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Sprites_17
-      rect:
-        serializedVersion: 2
-        x: 1514
-        y: 277
-        width: 20
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0b2d9506e29145df805ee67f415a371
-      internalID: -1151227428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Sprites_18
+      name: Crematorium-Burial
       rect:
         serializedVersion: 2
         x: 197
@@ -526,7 +463,7 @@ TextureImporter:
         width: 301
         height: 250
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -534,6 +471,69 @@ TextureImporter:
       bones: []
       spriteID: 2f9cf9b30904841dca6814700cb36a1c
       internalID: -238029466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grave-Cremation
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 412
+        width: 100
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20c9988c74a54736a04f97851bac0ca
+      internalID: 831338276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grave-Burial
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 412
+        width: 100
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e615c6e1b2c7484b8c67cead4ef93ce
+      internalID: -1710012645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grave-00
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 55
+        width: 100
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1173831db98b84378bbea7b8d4bb417e
+      internalID: 1202802291
       vertices: []
       indices: 
       edges: []
@@ -549,25 +549,30 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Basic Sprites_3: -1501416817
-      Basic Sprites_12: -1707352080
-      Basic Sprites_16: 387012874
+      Crematorium-01: -1501416817
+      Morty-for-Burial: -1392811976
+      Coffin-for-cremation: 645301620
+      Coffin-for-burial: -1420538935
+      Morty-for-Cremation: -367978121
+      Basic Sprites_3: -1728248950
+      Crematorium-03: -854696402
+      Grave-01: -187371995
       Basic Sprites_14: -1708929392
+      Grave-02: -1841508943
       Basic Sprites_17: -1151227428
-      Basic Sprites_1: -1420538935
-      Basic Sprites_11: 1371500307
-      Basic Sprites_13: -1841508943
-      Basic Sprites_15: -854696402
-      Basic Sprites_7: -1392811976
-      Basic Sprites_6: 5571977
-      Basic Sprites_8: -187371995
+      Basic Sprites_1: 1151557778
+      Crematorium-00: 1255143221
+      Crematorium-Burial: -238029466
+      Grave-Cremation: 831338276
+      Morty-Basic: 5571977
+      Grave-00: 1202802291
+      Grave-04: 434557640
       Basic Sprites_9: -30819596
-      Basic Sprites_18: -238029466
-      Basic Sprites_2: 1255143221
-      Basic Sprites_4: 955529460
-      Basic Sprites_5: 434557640
-      Basic Sprites_10: -367978121
-      Basic Sprites_0: 645301620
+      Grave-Burial: -1710012645
+      Crematorium-02: -1707352080
+      Grave-03: 387012874
+      Crematorium-Cremation: 1371500307
+      Crematorium-04: 955529460
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
