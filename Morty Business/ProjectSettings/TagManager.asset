@@ -6,7 +6,6 @@ TagManager:
   tags:
   - Coffin-Cremation
   - Coffin-Burial
-  - Disposal
   layers:
   - Default
   - TransparentFX

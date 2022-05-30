@@ -4,23 +4,13 @@ using UnityEngine;
 
 public class CoffinsManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public GameManager CoffinsCount;
+    public void OnTriggerEnter2D(Collider2D collision)
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-    void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.tag == "Disposal")
+        if (collision.tag == gameObject.tag)
         {
             Destroy(gameObject);
+            CoffinsCount.coffinsCount--;
         }
     }
 }

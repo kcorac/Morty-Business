@@ -344,7 +344,7 @@ GameObject:
   - component: {fileID: 475862333}
   m_Layer: 0
   m_Name: Grave-00
-  m_TagString: Disposal
+  m_TagString: Coffin-Burial
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -619,6 +619,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1031589386}
+  - component: {fileID: 1031589387}
   m_Layer: 0
   m_Name: Game Manager
   m_TagString: Untagged
@@ -641,6 +642,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1031589387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1031589385}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5edd279e0f77c464989a00e53460f8e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coffinsCount: 2
+  gameWon: 0
 --- !u!1 &1100128037
 GameObject:
   m_ObjectHideFlags: 0
@@ -936,7 +951,7 @@ GameObject:
   - component: {fileID: 1759358163}
   m_Layer: 0
   m_Name: Crematorium-00
-  m_TagString: Disposal
+  m_TagString: Coffin-Cremation
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1146,7 +1161,7 @@ GameObject:
   - component: {fileID: 2098245334}
   m_Layer: 5
   m_Name: Canvas
-  m_TagString: Untagged
+  m_TagString: Coffin-Burial
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1240,6 +1255,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 210433744979035846, guid: 0ad4ea9f3e59b48ab892b4d405c40853, type: 3}
+      propertyPath: disposal
+      value: 
+      objectReference: {fileID: 475862329}
+    - target: {fileID: 210433744979035846, guid: 0ad4ea9f3e59b48ab892b4d405c40853, type: 3}
+      propertyPath: CoffinsCount
+      value: 
+      objectReference: {fileID: 1031589387}
     - target: {fileID: 210433744979035848, guid: 0ad4ea9f3e59b48ab892b4d405c40853, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -1345,5 +1368,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6964814611742912594, guid: b5bbba7e8e27d486da51ae2d2b34de43, type: 3}
+      propertyPath: disposal
+      value: 
+      objectReference: {fileID: 1759358157}
+    - target: {fileID: 6964814611742912594, guid: b5bbba7e8e27d486da51ae2d2b34de43, type: 3}
+      propertyPath: CoffinsCount
+      value: 
+      objectReference: {fileID: 1031589387}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5bbba7e8e27d486da51ae2d2b34de43, type: 3}
